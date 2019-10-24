@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "20 Questions: Smash Bros Edition"
+excerpt: "A 20 question (by the name only) questionnaire that based arouhd finding your main charcter in Super Smash Bros Ultimate!<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<iframe height="400px" width="100%" src="https://repl.it/@OMARIBERNARD/EPIC-20-Questions-Thingy?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
