@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of my portfolio website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. You find projects of mine, a little information about me, and anything else I decide to add in the future!  
+This is the front page of my portfolio website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. You'll find projects of mine, a little information about me, and anything else I decide to add in the future!  
