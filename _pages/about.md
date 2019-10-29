@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-midnight
 permalink: /
 title: "Omari's Super Cool Work-In-Progress Website THING!"
 excerpt: "About me"
