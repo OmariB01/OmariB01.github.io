@@ -1,6 +1,6 @@
 ---
 title: "20 Questions: Smash Bros Edition"
-excerpt: "A 20 question (by the name only) questionnaire that's based on finding out your main charcter in Super Smash Bros Ultimate!<br/><img src='/images/For 20 Q's.jpg'>"
+excerpt: "A 20 question (by the name only) questionnaire that's based on finding out your main charcter in Super Smash Bros Ultimate!<br/><img src='/images/mstile-310x310.png'>"
 collection: portfolio
 ---
 
