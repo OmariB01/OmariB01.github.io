@@ -1,6 +1,6 @@
 ---
 title: "Score Average Calculator (Edhesive CSA Lesson 17 Coding Activity 1)"
-excerpt: "A simple calculator that calculates the average of the numbers you give it<br/><img src='/images/500x300.png'>"
+excerpt: "A simple calculator that calculates the average of the numbers you give it<br/><img src='/images/AverageNail.png'>"
 collection: portfolio
 ---
 
