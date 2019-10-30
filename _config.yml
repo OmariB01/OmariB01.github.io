@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "I CHEAT!"
+title                    : "Omari's Website Thing!"
 title_separator          : "-"
 name                     : &name "Omari Bernard"
 description              : &description "personal description"
