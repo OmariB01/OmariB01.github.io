@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Omari's Website Thing!"
 title_separator          : "-"
-name                     : &name "Omari Bernard"
+name                     : &name "boari Bernard"
 description              : &description "personal description"
 url                      : https://OmariB01.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
