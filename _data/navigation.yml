@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Portfolio"
+  - title: "AP CSA Portfolio"
     url: /portfolio/
  
-  - title: "Publications"
+  - title: "AP CSP Portfolio"
     url: /publications/
 
   - title: "Talks"
